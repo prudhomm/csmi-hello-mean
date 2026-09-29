@@ -1,6 +1,8 @@
 # Mon premier projet
 
-$$\bar{x} = \frac{1}{n} \sum_{i=0}^n x_i$$
+Calcul de la moyenne de valeurs dans un vecteur
+$$\bar{x} = \frac{1}{n} \sum_{i=0}^{n-1} x_i$$
+
 ## compilation 
 
 ```
